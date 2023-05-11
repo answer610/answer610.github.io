@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Rubik';
+    font-size: 20px;
+    line-height: 1.5;
+}
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro {
+    clear: left;
+    display: block;
+    text-align: center;
+}
+.courses{
+    display: block;
+    margin-top: 100px;
+    text-align: center;
+}
+.course_list {
+    text-align: left
+}
+.cubing {
+    text-align: center;
+}
+.links {
+    text-align: center;
+    margin-top: 10px;
+}
+
+a:link {
+    color:white;
+}
+a:visited {
+    color:white;
+}

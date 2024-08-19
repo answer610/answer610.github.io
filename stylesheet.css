@@ -1,0 +1,23 @@
+.name {
+    padding-top: 20px;
+    margin: 0;
+    font-family: Rubik, sans-serif;
+    font-size: 32px;
+}
+
+h2 {
+    margin: 0;
+    font-weight: normal;
+    font-family: Rubik, sans-serif;
+    font-size: 22px;
+  }
+
+body,
+td,
+th,
+tr,
+p,
+a {
+    font-family: Rubik, sans-serif;
+    font-size: 14px;
+}
